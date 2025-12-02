@@ -6,6 +6,8 @@ export default function Home() {
       <h1>Welcome to My Portfolio!</h1>
       <p>This is my personal website.</p>
       <p>This is a new paragraph added for CI/CD demonstration.</p>
+      <p>My portfolio is now live on Vercel!</p>
+
 
     </div>
   );
